@@ -1,0 +1,159 @@
+/*.wb-pt-wrapper.wb-pt-basic-template{
+   font-style:condensed;
+  background: #5b2072; /* Old browsers */
+    /*background: -moz-radial-gradient(center, ellipse cover,  #5b2072 0%, #5d1566 50%, #251a41 100%); /* FF3.6+ */*/
+    /*background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#5b2072), color-stop(50%,#5d1566), color-stop(100%,#251a41)); /* Chrome,Safari4+ */*/
+    /*background: -webkit-radial-gradient(center, ellipse cover,  #5b2072 0%,#5d1566 50%,#251a41 100%); /* Chrome10+,Safari5.1+ */*/
+    /*background: -o-radial-gradient(center, ellipse cover,  #5b2072 0%,#5d1566 50%,#251a41 100%); /* Opera 12+ */*/
+    /*background: -ms-radial-gradient(center, ellipse cover,  #5b2072 0%,#5d1566 50%,#251a41 100%); /* IE10+ */*/
+    /*background: radial-gradient(ellipse at center,  #5b2072 0%,#5d1566 50%,#251a41 100%); /* W3C */*/
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b2072', endColorstr='#251a41',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */*/
+/*}*/
+
+.wb-pt-wrapper.wb-pt-basic-template a{
+	font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.wb-pt-wrapper.wb-pt-basic-template input:focus, .wb-pt-wrapper.wb-pt-basic-template textarea:focus, .wb-pt-wrapper.wb-pt-basic-template select:focus{
+  border:1px solid #fafafa;
+  -webkit-box-shadow:0 0 6px #007eff;
+  -moz-box-shadow:0 0 5px #007eff;
+  box-shadow:0 0 5px #007eff;
+  outline: none;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template sup{
+
+	font-size: 40px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template ul{
+	list-style: none;
+	font-size: 15px;
+	color: #fff;
+	padding: 0px;
+	margin: 0px;
+
+
+}
+
+
+.wb-pt-wrapper.wb-pt-basic-template li{
+border-bottom: 1px solid #494a5a;
+padding: 15px;
+background-color: #2b2937;
+margin: 0px;
+text-align: center;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-header{
+  background-color: #2b2937;
+}
+.wb-pt-wrapper.wb-pt-basic-template .wppt-bottom{
+  background-color: #2b2937;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template #container{
+	width: 100%;
+  text-align:center;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-whole{
+  border-radius: 5px;
+  overflow: hidden;
+}
+.wb-pt-wrapper.wb-pt-basic-template .wppt-type{
+	/*height: 62px;*/
+  background: #eac80d;
+	border-bottom: 3px solid #bfa30c;
+  padding: 10px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-type p{
+    font-weight: 800;
+	font-size: 29px;
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+  margin-bottom: 0;
+  line-height: 40px;
+	/*padding-top: 10px;*/
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-plan{
+  font-style:condensed;
+  /*font-size: 90px;*/
+  color: #fff;
+  text-align: center;
+
+
+}
+.wb-pt-wrapper.wb-pt-basic-template .wppt-standard{
+	background-color: #1abc9c;
+	border-bottom: 3px solid #18937b;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-ultimate{
+	background-color: #5d6a9a;
+	border-bottom: 3px solid #474f6f;
+}
+
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-header{
+	border-bottom: 1px solid #494a5a;
+	padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-header span{
+	font-size: 32px;
+
+	
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-pricing-helper-text{
+	font-size: 14px;
+	color: #fff;
+	padding: 0px;
+	margin: -10px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-footer{
+	min-height:80px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-footer-btn{
+  color:#fff;
+  font-weight: 700;
+  font-size: 24px;
+  display: block;
+  padding: 10px 5px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-bottom{
+  /*padding: 20px;*/
+  background: #d7ac1a;
+  border: 2px solid #938105;
+  border-bottom-width: 4px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-content{
+}
+
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-top{
+  margin-top:35px;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-nodisplay{
+  opacity: 0.1;
+}
+
+.wb-pt-wrapper.wb-pt-basic-template .wppt-selected{
+  background-color:#1F1B36;
+  margin:0px;
+  padding:0px;
+}
